@@ -1,1 +1,1 @@
-# ignite_leb_node
+# ignite_lab_node
